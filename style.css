@@ -25,7 +25,7 @@
     .profissao {
     background-image:linear-gradient(#ff0000,#1c1c1c);
     color: white;
-    display: flex;
+
     justify-content: center;
     align-items: center;
     }
